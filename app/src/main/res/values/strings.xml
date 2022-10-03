@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Bussiness check-in system</string>
+    <string name="scan_qr">Scan QR</string>
+    <string name="epicstudio_team">© EpicStudio Team</string>
+    <string name="https_epicstudio_globbook_com"><a href="https://epicstudio.globbook.com">epicstudio.globbook.com</a></string>
+    <string name="title_activity_admin_home">admin_home</string>
+    <string name="personal">Personal</string>
+    <string name="entry">Entry</string>
+    <string name="download_qr">Download QR</string>
+    <string name="make_a_new_user">Make A New User</string>
+</resources>

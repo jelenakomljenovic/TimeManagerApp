@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "442316465213",
+    "project_id": "sarasa-302610",
+    "storage_bucket": "sarasa-302610.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:442316465213:android:d5fa112419fc00d4d37654",
+        "android_client_info": {
+          "package_name": "com.epicstudio.or3432"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "442316465213-87dl41kmlqp4qkjel0ivn81a3bk89rbk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBULzWMl7fnPCdmW4j2PcT_tS89uAI0mO8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "442316465213-87dl41kmlqp4qkjel0ivn81a3bk89rbk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
